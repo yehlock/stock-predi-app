@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" >台積電預測</string>
+
+    ///Title
+    <string name="title_home" >首頁</string>
+    <string name="title_dashboard" >Dashboard</string>
+    <string name="title_notifications" >Notifications</string>
+    <string name="title_news" >新聞</string>
+    <string name="title_chart" >走勢圖</string>
+    <string name="title_basic_info" >基本資料</string>
+
+    ///Home Page
+    <string name="home_title" >現在價格</string>
+    <string name="home_predi_title" >預測\n明天會</string>
+    <string name="home_button_predi_1" >預測一</string>
+    <string name="home_button_predi_2">預測二</string>
+    <string name="basic_info_title">台積電</string>
+</resources>

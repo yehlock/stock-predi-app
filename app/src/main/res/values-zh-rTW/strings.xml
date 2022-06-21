@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" >台積電預測</string>
+
+    ///Title
+    <string name="title_home" >首頁</string>
+    <string name="title_dashboard" >Dashboard</string>
+    <string name="title_notifications" >Notifications</string>
+    <string name="title_news" >新聞</string>
+    <string name="title_chart" >走勢圖</string>
+    <string name="title_basic_info" >基本資料</string>
+
+    //Connection Check
+    <string name="dialog_network_title">沒有網路連線n</string>
+    <string name="dialog_network_message">目前沒有網路連線，請開啟行動數據或wifi。</string>
+    <string name="dialog_confirm">確定</string>
+
+    ///Home Page
+    <string name="home_title" >現在價格</string>
+    <string name="home_predi_title" >預測\n明天會</string>
+    <string name="home_button_predi_1">傳統</string>
+    <string name="home_button_predi_2">LSTM</string>
+    <string name="home_button_predi_3">GRU</string>
+    <string name="basic_info_title">台積電</string>
+
+    ///Chart Page Chart Page Chart Page Chart Page Chart Page
+    <string name="chart_present_price">現價</string>
+    <string name="chart_change">漲跌</string>
+    <string name="chart_previous_close">昨收</string>
+    <string name="chart_change_percent">漲跌幅</string>
+    <string name="chart_high">最高</string>
+    <string name="chart_low">最低</string>
+    <string name="chart_volume">總量</string>
+    <string name="chart_value">開盤</string>
+    <string name="chart_amplitude">振幅</string>
+    <string name="chart_limitUp">漲停價</string>
+    <string name="chart_limitDown">跌停價</string>
+
+    ///Intro
+    <string name="gru_intro">介紹介紹介紹介紹介紹介紹介紹介紹介紹，介紹介紹介紹介紹介紹介紹介紹介紹介紹介紹介紹介紹介紹介紹介紹介紹介紹介紹介紹介紹介紹介紹介紹介紹介紹，介紹介紹介紹介紹介紹介紹介紹介紹介紹介紹介紹介紹介紹介紹</string>
+    <string name="lstm_intro">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean maximus vehicula nisl, sollicitudin venenatis risus venenatis in. Vivamus nibh enim, lobortis a risus in, luctus suscipit dui. Fusce eget felis malesuada, ultrices nisl id, hendrerit orci. In dapibus aliquam quam, sit amet feugiat urna porta vel. Fusce rhoncus fermentum vulputate. Quisque nec hendrerit nulla. Duis semper venenatis mi, sit amet auctor justo maximus sit amet. Cras lobortis tincidunt ante at faucibus. Suspendisse pharetra ante vel neque cursus volutpat. Morbi malesuada efficitur ullamcorper. Suspendisse eget lectus ante.</string>
+    <string name="traditional_intro">卬埒氝婇柟灝痻溾圪朼胗忷刱祅杋稗乇岮翞楻。艴一帣晢揎腷屮僛醍仉，耟屮洨軡敨牏乜槔爿犮。庹一臿蛌惢亶丌蜺鮇仈，梣乜玿梛匒滘乇嶈丮夗。彘佴襾嬨馰曏汜一尌婒哱昑屳陎乇，嗀粞兀盱郇裺迖氕丌呦榬竑冇疘。</string>
+</resources>
